@@ -1,0 +1,5 @@
+width: 64
+depth: 4
+expansion: 4
+batch_size: 512
+epochs: 300
